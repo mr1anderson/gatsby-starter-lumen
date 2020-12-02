@@ -27,24 +27,7 @@ module.exports = {
   author: {
     name: 'Jonathan  Wick',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-    contacts: {
-      email: '',
-      facebook: '',
-      telegram: '',
-      twitter: '',
-      github: '',
-      rss: '',
-      vkontakte: '',
-      linkedin: '',
-      instagram: '',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
-      medium: '',
-    }
+    bio: 'CEM englis blog, you will find all courses plus aditional files here',
+  
   }
 };
