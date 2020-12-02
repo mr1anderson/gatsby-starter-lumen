@@ -28,6 +28,23 @@ module.exports = {
     name: 'Jonathan  Wick',
     photo: '/photo.jpg',
     bio: 'CEM englis blog, you will find all courses plus aditional files here',
-  
+      contacts: {
+      email: '',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
+      rss: '',
+      vkontakte: '',
+      linkedin: '',
+      instagram: '',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
+      medium: '',
+    }
   }
 };
