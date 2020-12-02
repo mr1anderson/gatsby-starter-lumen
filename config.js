@@ -26,8 +26,8 @@ module.exports = {
   ],
   author: {
     name: 'Jonathan  Wick',
-    photo: '/photo.jpg',
-    bio: 'CEM englis blog, you will find all courses plus aditional files here',
+    photo: '/gutenberg.jpg',
+    bio: 'CEM english blog, you will find all courses plus aditional files here',
       contacts: {
       email: '',
       facebook: '',
