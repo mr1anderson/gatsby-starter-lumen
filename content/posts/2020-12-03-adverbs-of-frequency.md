@@ -12,7 +12,11 @@ description: n this post, I give examples on the use of some adverbials of time
   تنفيذ الإجراء ، على سبيل المثال دائمًا ، أحيانًا ، غالبًا ، إلخ.
 category: grammar
 ---
-<!--StartFragment-->
+
+
+
+
+
 
 **Never = أبداً**
 
@@ -50,18 +54,16 @@ It should be noted that the same adverbial also means “forever”. It can be u
 
 “My friend sometimes visits me, but I never visit her.”
 
- 
-
 **Often = غالباً**
 
 أسافر بالقطار غالباً لأنني أكره السفر بالطائرة.
 
 “I often travel by train because I hate travelling by air.”
 
- 
-
 **Always = دائماً**
 
 أستيقظ دائماً في الساعة السادسة.
 
 “I always wake up at six o’clock.”
+
+![image containing adverbs of frequency ](/media/18-57-36-images.jpg "adverbs of frequency ")
