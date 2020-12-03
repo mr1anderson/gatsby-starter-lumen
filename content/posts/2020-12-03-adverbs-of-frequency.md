@@ -11,59 +11,41 @@ description: n this post, I give examples on the use of some adverbials of time
   استخدام بعض ظروف الوقت التي تعبر عن التردد. هذه هي الظروف التي تصف عدد مرات
   تنفيذ الإجراء ، على سبيل المثال دائمًا ، أحيانًا ، غالبًا ، إلخ.
 category: grammar
+tags:
+  - "#3ms#grammar"
 ---
+في هذا الدرس سوف أشرح ظروف التكرار أو التردد في اللغة الإنجليزية Adverbs of frequency in English
 
+please watch the video  من فضلك شاهد الفيديو
 
-
-
-
+<https://www.youtube.com/watch?v=-x5FK8whRg4>
 
 **Never = أبداً**
 
-لا أدخن أبداً.
+لا أدخن أبداً.“I never smoke.”
 
-“I never smoke.”
+الأستاذ لا يتأخر عن الدرس أبداً“The teacher is never late for his class.”
 
-الأستاذ لا يتأخر عن الدرس أبداً
 
-“The teacher is never late for his class.”
-
-It should be noted that the same adverbial also means “forever”. It can be used in both ways, and the context is the most important clue to disambiguate the sentence, e.g.
-
-“اعمل لدنياك كأنك تعيش أبداً”
-
-“Work for your earthly life as if you live forever.”
 
 **Rarely = نادراً**
 
-نذهب إلى السينما نادراً.
+نذهب إلى السينما نادراً.“We rarely go to the cinema.”
 
-“We rarely go to the cinema.”
-
-نادراً ما أسافر.
-
-“I rarely travel.”
+نادراً ما أسافر.“I rarely travel.”
 
 **Sometimes = أحياناً**
 
-أحياناً لا يعمل الإنترنت في بيتي.
+أحياناً لا يعمل الإنترنت في بيتي.“Sometimes, my internet connection stops working.”
 
-“Sometimes, my internet connection stops working.”
-
-صديقتي تزوروني أحياناً ولككني لا أزورها أبداً.
-
-“My friend sometimes visits me, but I never visit her.”
+صديقتي تزوروني أحياناً ولككني لا أزورها أبداً.“My friend sometimes visits me, but I never visit her.”
 
 **Often = غالباً**
 
-أسافر بالقطار غالباً لأنني أكره السفر بالطائرة.
-
-“I often travel by train because I hate travelling by air.”
+أسافر بالقطار غالباً لأنني أكره السفر بالطائرة.“I often travel by train because I hate travelling by air.”
 
 **Always = دائماً**
 
-أستيقظ دائماً في الساعة السادسة.
-
-“I always wake up at six o’clock.”
+أستيقظ دائماً في الساعة السادسة.“I always wake up at six o’clock.”
 
 ![image containing adverbs of frequency ](/media/18-57-36-images.jpg "adverbs of frequency ")
