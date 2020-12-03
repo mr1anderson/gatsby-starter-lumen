@@ -1,6 +1,6 @@
 ---
 template: post
-title: "adverbs of frequency "
+title: "adverbs of frequency 3ms "
 slug: grammar sequence one 3ms
 socialImage: /media/18-57-36-images.jpg
 draft: false
