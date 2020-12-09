@@ -18,7 +18,7 @@ Ability and inability  with CAN,can't وصف القدرة وعدم القدرة\
 في المضارع نستخدم\
 *Use **can** or **can't** to to talk about **ability and inability**  in the present. 
 
-***ability / القدرة  (** we use **can)*** 
+**\*ability / القدرة  (** we use **can)*** 
 
 **Examples**: 
 
@@ -26,8 +26,6 @@ Ability and inability  with CAN,can't وصف القدرة وعدم القدرة\
 * Nabil **can** play piano / نبيل **يستطيع** العزف على البيانو
 * we **can** succeed in the exam / نحن **نستطيع**  أن ننجح في الامتحان
 * Ines **can** solve a rubics cube /  إيناس **تستطيع** حل مكعب روبيك
-
-
 
 **Inability /عدم القدرة**  (we use **can't**) 
 
@@ -37,8 +35,6 @@ Ability and inability  with CAN,can't وصف القدرة وعدم القدرة\
 * mohamed **cannot/ can't** sing ./محمد **لا يستطيع**  الغناء.
 * lamia **can't** eat peanuts , she is allergic/ لمياء **لا تستطيع** تناول الفول السوداني ، فهي تعاني من الحساسية
 
-  <!--StartFragment-->
-
   **Expressing ability and inability.**التعبير عن القدرة والعجز
 
   **Modal verb 'can'**
@@ -46,8 +42,9 @@ Ability and inability  with CAN,can't وصف القدرة وعدم القدرة\
   **Can** is an auxiliary verb. We use **can** to:  هو فعل مساعد. نستخدمه من أجل **can**
 
   \- talk about possibility and ability تحدث عن الإمكانية والقدرة\
-  - make requests تقديم طلبات\
-  - ask for or give permission اطلب الإذن أو أعطه
+
+  * make requests تقديم طلبات\
+  * ask for or give permission اطلب الإذن أو أعطه
 
    the main verb is always the infinitive.الفعل الرئيسي هو دائما صيغة المصدر.
 
