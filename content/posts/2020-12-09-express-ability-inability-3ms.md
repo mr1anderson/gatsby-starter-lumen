@@ -1,7 +1,7 @@
 ---
 template: post
 title: "express ability & inability 3ms "
-slug: "3ms sequence one "
+slug: 3ms sequence 1
 socialImage: /media/can-cannot.jpg
 draft: false
 date: 2020-12-09T19:18:41.025Z
