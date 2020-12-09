@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Ms Amel H',
-    photo: '/photo.jpg',
+    photo: '/photo2.jpg',
     bio: 'CEM english blog, you will find all courses plus aditional files here',
       contacts: {
       email: '',
