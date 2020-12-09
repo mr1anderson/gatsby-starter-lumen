@@ -4,7 +4,7 @@ title: "express ability /inability 3ms "
 slug: "3ms sequence one "
 socialImage: /media/can-cannot.jpg
 draft: false
-date: 2020-12-03T21:14:00.719Z
+date: 2020-12-09T19:09:30.642Z
 description: >-
   In this post, we’ll look at the different ways to describe ability and
   inability 
@@ -12,7 +12,7 @@ description: >-
   في هذا المنشور ، سنلقي نظرة على الطرق المختلفة لوصف القدرة وعدم القدرة
 category: "grammar "
 tags:
-  - "#3ms#grammar"
+  - "#3ms #grammar"
 ---
 Ability and inability  with CAN,can't وصف القدرة وعدم القدرة\
 في المضارع نستخدم\
