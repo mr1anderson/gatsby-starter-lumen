@@ -48,7 +48,7 @@ Ability and inability with CAN,can't وصف القدرة وعدم القدرة\
 
 for the detailed lesson click this link للدرس المفصل انقر فوق هذا الرابط
 
-**[https://www.youtube.com/watch?v=U8ztpVLvF3w](**<https://www.youtube.com/watch?v=U8ztpVLvF3w>**)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8ztpVLvF3w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 to test yourself , click here to test yourself , click here
 
