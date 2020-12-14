@@ -3,7 +3,7 @@ template: post
 title: 'final" s " pronunciation  3ms '
 slug: pronunciation  sequence one 3ms
 socialImage: /media/maxresdefault.jpg
-draft: true
+draft: false
 date: 2020-12-13T18:09:04.821Z
 description: |-2
    in this post,  we are going to learn how to pronounce the final s correctly 
