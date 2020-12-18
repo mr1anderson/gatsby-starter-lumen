@@ -3,7 +3,7 @@ template: post
 title: "Writing a profile 3ms "
 slug: Writing
 socialImage: /media/19-35-03-my-personal-profile-fun-activities-games_30160_1.jpg
-draft: true
+draft: false
 date: 2020-12-18T13:42:49.300Z
 description: >-
   in this post,you will find a sample of writing a simple, straight forward
