@@ -18,15 +18,13 @@ tags:
 
 please watch the video  من فضلك شاهد الفيديو
 
-<https://www.youtube.com/watch?v=-x5FK8whRg4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-x5FK8whRg4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Never = أبداً**
 
 لا أدخن أبداً.“I never smoke.”
 
 الأستاذ لا يتأخر عن الدرس أبداً“The teacher is never late for his class.”
-
-
 
 **Rarely = نادراً**
 
