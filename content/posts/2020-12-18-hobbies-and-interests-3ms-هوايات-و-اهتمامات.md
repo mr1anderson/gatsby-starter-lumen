@@ -2,7 +2,7 @@
 template: post
 title: Hobbies and Interests 3ms هوايات و اهتمامات
 slug: "Vocabulary "
-socialImage: /media/stock-vector-hobbies-and-interest-detailed-line-icons-set-in-modern-line-icon-style-for-ui-ux-web-app-design-685591531.jpg
+socialImage: /media/fb_img_15836903250989139897164221126416.jpg
 draft: false
 date: 2020-12-18T14:14:52.443Z
 description: |-
@@ -21,8 +21,6 @@ A hobby is considered to be a regular activity that is done for enjoyment, typic
 ## Asking and answer questions about hobbies
 
 ## طرح الأسئلة حول الهوايات والإجابة عليها
-
-
 
 ### Some questions you can ask a friend about hobbies
 
@@ -43,7 +41,7 @@ If you had extra time, what would you do with it?
 
 ### Answering questions:
 
-*  My main hobby is golf, but I also like to play football on a Sunday.
+* My main hobby is golf, but I also like to play football on a Sunday.
 * I like to play snooker in my free time.
 * When am not working,I like talking to other people on the Internet.
 * In my spare time, I love cooking cakes.
@@ -54,7 +52,6 @@ If you had extra time, what would you do with it?
 
 **الاجابة عن الاسئلة:**
 
-
 * هوايتي الرئيسية هي الجولف ، لكني أحب أيضًا أن ألعب كرة القدم يوم الأحد.
 * أحب أن ألعب السنوكر في أوقات فراغي.
 * عندما لا أعمل ، أحب التحدث إلى أشخاص آخرين على الإنترنت.
@@ -64,7 +61,7 @@ If you had extra time, what would you do with it?
   * في الصيف ألعب الكريكيت ، ثم في الشتاء أحب لعب كرة القدم في الحديقة.
   * أحب معظم أنواع الرياضات ، لكني أحب كرة القدم أكثر.
 
-![](/media/fb_img_15836903250989139897164221126416.jpg)
+
 
 # More Hobbies Vocabulary المزيد من مفردات الهوايات
 
