@@ -14,7 +14,7 @@ category: Writing
 tags:
   - "#3ms#writing"
 ---
-# \    My Personal Profile 
+# \    My Personal Profile
 
 \    My name is ............... i am ....... years old ( male/female)   . I am a pupil at Lehlou Houcine middle school .I am from algeria , i live in the city of Setif .exactly in a small village called " douaouga". i have ........... brothers, and ............... sisters. I am ................. and ................. I have .......................... hair, and ....................eyes. 
 
@@ -27,3 +27,5 @@ tags:
 \ اسمي ............... عمري ...... سنة (ذكر / أنثى). أنا تلميذ في مدرسة حلو حسين الإعدادية. أنا من الجزائر ، أعيش في مدينة سطيف. بالضبط في قرية صغيرة تسمى "ضواوقة ". لدي ........... إخوان و ............... أخوات. أنا ................. و ................. لدي ... ............... الشعر و .................... العيون.
 
 \ في وقت فراغي ، أحب الاستماع إلى الموسيقى. كثيرا ما أقرأ الكتب والمانجا. يمكنني التحدث باللغتين الإنجليزية والفرنسية. أريد أن أتعلم اليابانية ولكن لا يمكنني التحدث بها بعد.
+
+![](/media/19-35-03-my-personal-profile-fun-activities-games_30160_1.jpg)
