@@ -14,7 +14,13 @@ tags:
 ---
 # What Is a Hobby ?
 
-![](/media/screenshot_1.png)
+A hobby is considered to be a regular activity that is done for enjoyment, typically during one's leisure time, not professionally and not for pay.
+
+تعتبر الهواية نشاطًا معتادًا يتم القيام به للتمتع بها ، عادةً خلال وقت الفراغ ، وليس على المستوى المهني وليس مقابل أجر.
+
+## Asking and answer questions about hobbies
+
+## طرح الأسئلة حول الهوايات والإجابة عليها
 
 ![](/media/fb_img_15836903250989139897164221126416.jpg)
 
