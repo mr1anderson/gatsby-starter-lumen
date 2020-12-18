@@ -1,7 +1,7 @@
 ---
 template: post
-title: hobbies and interests 3ms هوايات و اهتمامات
-slug: "vocabulary "
+title: Hobbies and Interests 3ms هوايات و اهتمامات
+slug: "Vocabulary "
 socialImage: /media/stock-vector-hobbies-and-interest-detailed-line-icons-set-in-modern-line-icon-style-for-ui-ux-web-app-design-685591531.jpg
 draft: false
 date: 2020-12-18T14:14:52.443Z
