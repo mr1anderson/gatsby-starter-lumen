@@ -1,6 +1,6 @@
 ---
 template: post
-title: Hobbies and Interests 3ms هوايات و اهتمامات
+title: "Hobbies and Interests 3ms "
 slug: "Vocabulary "
 socialImage: /media/fb_img_15836903250989139897164221126416.jpg
 draft: false
