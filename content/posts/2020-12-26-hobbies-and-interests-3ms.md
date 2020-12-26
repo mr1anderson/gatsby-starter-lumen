@@ -159,5 +159,3 @@ If you had extra time, what would you do with it?
   \*         تزلج
 
   \*         ركوب الأمواج
-
-  <!--EndFragment-->
